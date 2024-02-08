@@ -1,8 +1,5 @@
 # Saudi_Arabia_Used_Cars
 
-### **Business Problem Understanding**
-![marketsize](./marketsize.jpg)
-
 #### **Context**
 
 Saudi Arabia Used Car Market was valued at USD 4.91 billion in 2021 and is expected to surpass a net valuation of USD 8.69 billion by 2027 end, registering a solid CAGR (Compound Annual Growth Rate) growth of 7.36% over the forecast period.
